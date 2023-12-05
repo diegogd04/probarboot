@@ -1,0 +1,8 @@
+.table-custom-border {
+  border: 2px solid black;
+}
+
+.table-custom-border th,
+.table-custom-border td {
+  border: 2px solid black;
+}
